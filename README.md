@@ -1,2 +1,2 @@
-# Blog2.0
- Blog 2.0 / Signup / Login
+# Blog #website
+ A website where you can provide users with articles and news for your blog
